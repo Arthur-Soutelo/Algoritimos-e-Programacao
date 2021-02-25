@@ -1,0 +1,101 @@
+# depslib dependency file v1.0
+1561426239 source:c:\users\arthu\desktop\locau (trabalho final)\main.c
+	"cliente.h"
+	"carro.h"
+	"aluguel.h"
+
+1561263173 c:\users\arthu\desktop\locau (trabalho final)\cliente.h
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	<ctype.h>
+
+1561425973 c:\users\arthu\desktop\locau (trabalho final)\carro.h
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	<ctype.h>
+
+1561503906 c:\users\arthu\desktop\locau (trabalho final)\aluguel.h
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	<ctype.h>
+	<time.h>
+	"carro.h"
+	"cliente.h"
+
+1559860789 source:c:\users\arthu\desktop\locau (trabalho final)\leitura_aluguel.c
+	"aluguel.h"
+
+1559860779 source:c:\users\arthu\desktop\locau (trabalho final)\grava_aluguel.c
+	"aluguel.h"
+
+1559773726 c:\users\arthu\desktop\locau (trabalho final)\grava_aluguel.h
+	"aluguel.h"
+
+1559784139 c:\users\arthu\desktop\locau (trabalho final)\main.h
+	<stdio.h>
+	"cliente.h"
+	"carro.h"
+	"aluguel.h"
+
+1559783956 source:c:\users\arthu\desktop\locau (trabalho final)\lista_aluguel.c
+	"aluguel.h"
+
+1559862386 source:c:\users\arthu\desktop\locau (trabalho final)\info_aluguel.c
+	"aluguel.h"
+
+1559866837 source:c:\users\arthu\desktop\locau (trabalho final)\novo_aluguel.c
+	"aluguel.h"
+	"carro.h"
+
+1560380162 source:c:\users\arthu\desktop\locau (trabalho final)\checa_tamanho.c
+	"aluguel.h"
+	"carro.h"
+	"cliente.h"
+
+1561426211 source:c:\users\arthu\desktop\locau (trabalho final)\carro.c
+	"carro.h"
+
+1561515489 source:c:\users\arthu\desktop\locau (trabalho final)\cliente.c
+	"cliente.h"
+
+1561424895 source:c:\users\arthu\desktop\locau (trabalho final)\aluguel.c
+	"aluguel.h"
+
+1561424895 source:c:\users\arthu\documents\(o_o)\ufrgs 2o semestre\prog\exercicios pratica\locau (trabalho final)\aluguel.c
+	"aluguel.h"
+
+1561503906 c:\users\arthu\documents\(o_o)\ufrgs 2o semestre\prog\exercicios pratica\locau (trabalho final)\aluguel.h
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	<ctype.h>
+	<time.h>
+	"carro.h"
+	"cliente.h"
+
+1561425973 c:\users\arthu\documents\(o_o)\ufrgs 2o semestre\prog\exercicios pratica\locau (trabalho final)\carro.h
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	<ctype.h>
+
+1561263173 c:\users\arthu\documents\(o_o)\ufrgs 2o semestre\prog\exercicios pratica\locau (trabalho final)\cliente.h
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	<ctype.h>
+
+1561426211 source:c:\users\arthu\documents\(o_o)\ufrgs 2o semestre\prog\exercicios pratica\locau (trabalho final)\carro.c
+	"carro.h"
+
+1561515489 source:c:\users\arthu\documents\(o_o)\ufrgs 2o semestre\prog\exercicios pratica\locau (trabalho final)\cliente.c
+	"cliente.h"
+
+1561426239 source:c:\users\arthu\documents\(o_o)\ufrgs 2o semestre\prog\exercicios pratica\locau (trabalho final)\main.c
+	"cliente.h"
+	"carro.h"
+	"aluguel.h"
+

@@ -1,0 +1,13 @@
+codigo_carro,marca,modelo,ano,placa,valor_diaria,valor_seguro,quantidade
+1,Ford,Focus 2.0 Aut.,2018,HJO4752,80.00,30.00,4
+2,Fiat,Strada Celeb. 1.4,2018,GVP9221,140.00,40.00,3
+3,Fiat,Uno 1.4,2017,HKZ4848,60.00,30.00,10
+4,BMW,X1 2.0 Aut.,2019,HAR8260,280.00,60.00,1
+5,Tesla,Model 3,2018,UYH8756,170.75,62.35,3
+6,Renault,Zoe,2019,MUJ7K93,80.00,45.50,5
+7,Tesla,Model X,2017,UHJ9860,95.00,50.00,4
+8,Tesla,Model S,2016,MNB5123,59.99,35.00,6
+9,Honda,Civic 2018 Turbo,2017,RFG6598,100.00,59.99,3
+10,Fiat,Mile,2008,LMN5632,40.00,20.00,15
+11,Fiat,Uno com Escada,2000,KNB3214,300.50,100.00,1
+12,Porche,Cayene,2000,KLI74856,500.00,200.00,1
